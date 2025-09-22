@@ -6,7 +6,7 @@ body {
   font-family: Arial, sans-serif;
 }
 #all-contents {
-  max-width: 800px;
+  max-width: 400px;
   margin: auto;
 }
 
@@ -56,7 +56,7 @@ main {
 }
 
 .sidebar-img {
-  width: 200px;
+  width: 00px;
 }
 
 .content {
